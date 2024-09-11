@@ -1,0 +1,9 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "explicit"
+    },
+    "python.sortImports.args": [
+        "--profile",
+        "black"
+    ],
+}
